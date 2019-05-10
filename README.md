@@ -19,3 +19,8 @@ Additional requirements to packages used in notebook.
 -ffplay
 -ffprobe
 -ffmpeg
+
+
+Source code for the punctuator api can be found here: https://github.com/ottokart/punctuator2
+
+Better results can be generated when the youtube subtitle url is used as opposed the punctuator. 
