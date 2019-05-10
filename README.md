@@ -1,6 +1,6 @@
 # Audio to Text
 
-This project takes an NLP approach to derive information from audio/video files. The following workflow and Tools were used:
+This project takes an NLP approach to derive information from audio/video files. The following workflow and tools were used:
 
 Workflow - Tool:
 
