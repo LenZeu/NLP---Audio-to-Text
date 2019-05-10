@@ -12,3 +12,10 @@ Workflow - Tool:
 
 
 The jupyter notebook is accompanied by a ppt that was used for class presentation purposes
+
+Additional requirements to packages used in notebook.
+
+- youtube_dl
+-ffplay
+-ffprobe
+-ffmpeg
